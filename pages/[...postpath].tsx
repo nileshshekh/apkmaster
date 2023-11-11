@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
       redirect: {
         permanent: false,
         destination: `${
-          endpoint."https://teenpattiapk.in/" + encodeURI(path as string)
+          'https://bheletr.co.in/' + encodeURI(path as string)
         }`,
       },
     };
